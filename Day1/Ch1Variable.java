@@ -11,6 +11,15 @@ public class Ch1Variable {
 
         a = 10 ; // here we do initalization after declaration.
 
+
+        // int 10 ; --> it is not allow we have some rule for naming of variable->
+        /*
+          a. Must not start with any digits.
+          b. only character , digits, ans some special character can be used as variables name.
+          c. try to maintain a meaningful variables name.
+          d. allways try to follow camel case naming[ex:myName]
+        */
+
         System.out.println(a);
 
     }
